@@ -1,2 +1,4 @@
 .DS_Store
-MyFile3.txt
+MyFile4.txt
+/Build
+/node_modules
